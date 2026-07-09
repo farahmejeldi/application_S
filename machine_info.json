@@ -1,0 +1,68 @@
+[
+ {
+   "name": "M01",
+   "id_machine": "MA1",
+   "production_line": "LineA",
+   "project": "m_beam"
+ },
+ {
+   "name": "M02",
+   "id_machine": "MA2",
+   "production_line": "LineB",
+   "project": "m_beam"
+ },
+ {
+   "name": "M03",
+   "id_machine": "MA3",
+   "production_line": "LineC",
+   "project": "m_beam"
+ },
+ {
+   "name": "M04",
+   "id_machine": "MA4",
+   "production_line": "LineD",
+   "project": "m_beam"
+ },
+ {
+   "name": "M05",
+   "id_machine": "MA5",
+   "production_line": "LineA",
+   "project": "m_beam"
+ },
+ {
+   "name": "M06",
+   "id_machine": "MA6",
+   "production_line": "LineE",
+   "project": "m_beam"
+ },
+ {
+   "name": "M07",
+   "id_machine": "MA7",
+   "production_line": "LineF",
+   "project": "m_beam"
+ },
+ {
+   "name": "M08",
+   "id_machine": "MA8",
+   "production_line": "LineG",
+   "project": "m_beam"
+ },
+ {
+   "name": "M09",
+   "id_machine": "MA9",
+   "production_line": "LineH",
+   "project": "m_beam"
+ },
+ {
+   "name": "M10",
+   "id_machine": "MA10",
+   "production_line": "LineI",
+   "project": "m_beam"
+ },
+ {
+   "name": "M011",
+   "id_machine": "MA11",
+   "production_line": "LineJ",
+   "project": "m_beam"
+ }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "cadencePerHour": 17,
+        "conformes": 1,
+        "downtimes": [
+            {
+                "cause": "Fin de stock matière",
+                "dur": 4,
+                "end": "2026-07-08T23:45:03",
+                "start": "2026-07-08T23:44:59"
+            }
+        ],
+        "endTime": "2026-07-08T23:46:01",
+        "idOperateur": "2062673",
+        "machine": "M01",
+        "nomOperateur": "dhaoudi",
+        "nonConformes": 0,
+        "prenomOperateur": "Weal",
+        "reference": "FSB-Artico",
+        "startTime": "2026-07-08T23:43:56"
+    },
+    {
+        "cadencePerHour": 17,
+        "conformes": 1,
+        "downtimes": [
+            {
+                "cause": "panne de cable",
+                "dur": 132,
+                "end": "2026-07-09T17:56:18",
+                "start": "2026-07-09T17:54:06"
+            }
+        ],
+        "endTime": "2026-07-09T18:04:23",
+        "idOperateur": "2057335",
+        "machine": "M01",
+        "nomOperateur": "Louati",
+        "nonConformes": 2,
+        "prenomOperateur": "kossay",
+        "reference": "FSB-Artico",
+        "startTime": "2026-07-09T17:51:29"
+    }
+]

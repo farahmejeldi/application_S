@@ -1,0 +1,26 @@
+[
+    {
+        "cible_heure": 17,
+        "cible_shift": 128,
+        "conforme": 1,
+        "jour": "08/07/2026",
+        "machine": "M01",
+        "non_conforme": 0,
+        "operateur": "dhaoudi Weal",
+        "performance_pct": 0.8,
+        "reference": "FSB-Artico",
+        "shift": 3
+    },
+    {
+        "cible_heure": 17,
+        "cible_shift": 128,
+        "conforme": 1,
+        "jour": "09/07/2026",
+        "machine": "M01",
+        "non_conforme": 2,
+        "operateur": "Louati kossay",
+        "performance_pct": 2.4,
+        "reference": "FSB-Artico",
+        "shift": 2
+    }
+]

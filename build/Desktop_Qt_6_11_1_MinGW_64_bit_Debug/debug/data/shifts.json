@@ -1,0 +1,20 @@
+[
+    {
+        "debut": "06:00",
+        "fin": "14:00",
+        "label": "Matin",
+        "shift": 1
+    },
+    {
+        "debut": "14:00",
+        "fin": "22:00",
+        "label": "Après-midi",
+        "shift": 2
+    },
+    {
+        "debut": "22:00",
+        "fin": "06:00",
+        "label": "Nuit",
+        "shift": 3
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "cause_arret": "Fin de stock matière",
+        "date": "08/07/2026",
+        "debut_arret": "23:44",
+        "duree_arret": "00:00:04",
+        "duree_arret_secondes": 4,
+        "fin_arret": "23:45",
+        "machine": "M01",
+        "nombre_arret": 1,
+        "shift": 3
+    },
+    {
+        "cause_arret": "panne de cable",
+        "date": "09/07/2026",
+        "debut_arret": "17:54",
+        "duree_arret": "00:02:12",
+        "duree_arret_secondes": 132,
+        "fin_arret": "17:56",
+        "machine": "M01",
+        "nombre_arret": 1,
+        "shift": 2
+    }
+]

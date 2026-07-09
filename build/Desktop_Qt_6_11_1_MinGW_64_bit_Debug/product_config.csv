@@ -1,0 +1,17 @@
+part_number,cycle_time_seconds,target_per_hour
+FSB-Artico,120,17
+RSB-Artico,120,17
+FSC-Artico,80,24
+RSC-Artico,80,24
+FSB-Stoff,25,17
+RSB-Stoff,25,17
+FSC-Stoff,20,24
+RSC-Stoff,20,24
+FSB-Leather,120,17
+RSB-Leather,120,17
+FSC-Leather,80,24
+RSC-Leather,80,24
+FSB-Microfasser,120,17
+RSB-Microfasser,120,17
+FSC-Microfasser,80,24
+RSC-Microfasser,80,24
